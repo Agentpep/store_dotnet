@@ -1,0 +1,16 @@
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.deps.json
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.dll
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.pdb
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfo.cs
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.dll
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_project/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.pdb
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.deps.json
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.dll
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/bin/Debug/netstandard2.0/ApplicationCore.pdb
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.AssemblyInfo.cs
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.dll
+/Users/rafalkowalczyk/Desktop/code/dotnet/store_try/src/ApplicationCore/obj/Debug/netstandard2.0/ApplicationCore.pdb

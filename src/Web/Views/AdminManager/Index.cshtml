@@ -1,0 +1,35 @@
+﻿@using Microsoft.eShopWeb.ViewModels
+@model IEnumerable<OrderViewModel>
+    @{
+    ViewData["Title"] = "Manage Orders";
+    }
+
+    <div class="esh-orders">
+        <div class="container">
+            <h1>@ViewData["Title"]</h1>
+            <article class="esh-orders-titles row ">
+                <section class="esh-orders-title col-xs-2"></section>
+                <section class="esh-orders-title col-xs-1">Lp</section>
+                <section class="esh-orders-title col-xs-3">Date</section>
+                <section class="esh-orders-title col-xs-2">Total</section>
+                <section class="esh-orders-title col-xs-2">Order Id</section>
+                <section class="esh-orders-title col-xs-2">Customer Id</section>
+            </article>
+            @if (Model != null && Model.Any())
+            {
+                var counter = 0;
+                @foreach (var item in Model)
+                {
+                    counter = counter + 1;
+                    <article class="row" style="margin:10px;">
+                        <section class="esh-orders-item col-xs-2"><a class="btn btn-success" asp-controller="AdminManager" asp-action="Remove" asp-route-orderId="@item.OrderNumber">Remove</a></section>
+                        <section class="esh-orders-item col-xs-1">@counter</section>
+                        <section class="esh-orders-item col-xs-3">@Html.DisplayFor(modelItem => item.OrderDate)</section>
+                        <section class="esh-orders-item col-xs-2">$ @Html.DisplayFor(modelItem => item.Total)</section>
+                        <section class="esh-orders-item col-xs-2">@Html.DisplayFor(modelItem => item.OrderNumber)</section>
+                        <section class="esh-orders-item col-xs-1">@Html.DisplayFor(modelItem => item.CustomerId)</section>
+                    </article>
+                }
+            }
+        </div>
+    </div>
